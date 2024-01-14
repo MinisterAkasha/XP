@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@effector/next": "^0.7.0",
+    "@nextcss/reset": "^0.2.4-beta",
     "effector": "^23.1.0",
     "effector-react": "^23.1.0",
     "next": "14.0.4",
